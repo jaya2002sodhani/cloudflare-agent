@@ -5,7 +5,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "cloudflare-agent",
-  "account_id": "82cb23d425481c04aeff34c181ff2d14",
+  "account_id": "8434d69c8bf0e10a58d9b53e1f83e5c1",
   "main": "src/server.ts",
   "compatibility_date": "2026-06-11",
   "compatibility_flags": ["nodejs_compat"],

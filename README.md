@@ -2,6 +2,8 @@
 
 A streaming AI chat app built with Cloudflare Workers, the Agents SDK, and Workers AI. The agent uses Llama 3.3 for general questions and tools, Open-Meteo for live weather, and Durable Objects for persistent chat sessions.
 
+**Live demo:** https://cloudflare-agent.cloudflare-agent.workers.dev
+
 ## Requirements
 
 - Node.js 20.19+ or 22.12+
